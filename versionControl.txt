@@ -1,0 +1,18 @@
+Version Control - Articulate
+Adan Abinadi Tudela
+
+What is version control and why is it important?
+
+For me a version control system, or VCS, is a proccess that tracks history of changes as people and teams collaborate on projects together.
+As a developer tracking on this sytem I can find out versions of the project to be recovered at any time.
+
+    so the first benefit is to keep track of the history of your project you are working on.
+    Version control makes very easy to work simoustaneously in the same project with others developers.
+    Also you can revert to a previous version in the project if you had make a mistake.
+
+An example of version control is github, its a big plataform that allows you and the people you want to work together tracking the history of a project.
+to start and config a repository i love the command:
+     git config --global user.name "yourusername"
+     git init   = it creates a new repository
+
+thank you
